@@ -8,7 +8,7 @@ Please cite the following research work:
 **Thesis:**
 []
 
-**Journal Article:**
+**Journal Articles:**
 ```bibtex
 @article{grover2024attention,
   title={An attention approach to emoji focused sarcasm detection},
