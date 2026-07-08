@@ -20,8 +20,6 @@ Please cite the following research work:
   publisher={Elsevier}
 }
 
-**Journal Article:**
-```bibtex
 @article{grover2026emoji,
   title={An emoji centric approach to sarcasm detection in online discourse},
   author={Grover, V and Banati, H},
