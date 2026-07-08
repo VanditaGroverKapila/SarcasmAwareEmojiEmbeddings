@@ -1,10 +1,15 @@
-Sarcasm-aware emoji embeddings are trained on SarcOji, SarcojiTest1, and SarcOjiTest2 capturing 1444 emojis.
+Sarcasm-aware emoji embeddings are trained on SarcOji, SarcojiTest1, and SarcOjiTest2 capturing 1444 emojis.  
 Sarc-aware emoji embeddings are trained only on SarcOji dataset capturing 1017 emojis.
-The training methodology is presented in the Thesis.
-Please cite the following research work:
-Thesis:
 
-Journal Article:
+The training methodology is presented in the Thesis.
+
+Please cite the following research work:
+
+**Thesis:**
+[]
+
+**Journal Article:**
+```bibtex
 @article{grover2024attention,
   title={An attention approach to emoji focused sarcasm detection},
   author={Grover, Vandita and Banati, Hema},
@@ -14,8 +19,9 @@ Journal Article:
   year={2024},
   publisher={Elsevier}
 }
-and
-Journal Article
+
+**Journal Article:**
+```bibtex
 @article{grover2026emoji,
   title={An emoji centric approach to sarcasm detection in online discourse},
   author={Grover, V and Banati, H},
