@@ -6,7 +6,21 @@ The training methodology is presented in the Thesis.
 Please cite the following research work:
 
 **Thesis:**
-[]
+## Citation
+
+
+\`\`\`bibtex
+@phdthesis{grover2026emojis,
+  author       = {Grover, V.},
+  title        = {Emojis as Affective Signals for Sarcasm Detection: An Empirical Analysis Informing EmoCentricSarcBERT and Its Application in the RADMAD Framework for Toxicity Mitigation in Online Discourse},
+  school       = {Zenodo},
+  year         = {2026},
+  type         = {Thesis},
+  doi          = {10.5281/zenodo.21297666},
+  url          = {https://doi.org}
+}
+\`\`\`
+
 
 **Journal Articles:**
 ```bibtex
